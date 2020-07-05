@@ -15,3 +15,9 @@ Press the green new button.
 Do not select any options. This will create an empty repo.
 
 ![Empty Project](../img/2020-07-05 14_08_35-Create a New Repository.png)
+
+The next page of the setup shows all the commands needed for setting up the repo from a command line.
+
+![Commands 1](../img/2020-07-05 14_09_29-reesehaywood_helloworld.png)
+![Commands 2](../img/2020-07-05 14_09_53-reesehaywood_helloworld2.png)
+
