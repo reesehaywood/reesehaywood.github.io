@@ -26,7 +26,7 @@ The next page of the setup shows all the commands needed for setting up the repo
 In the local directory:
 
 ```
-git chaeckout master
+git checkout master
 ```
 
 Then:
@@ -51,5 +51,5 @@ git commit -m 'Message for commit'
 git push -u origin master
 ```
 
-I am not sure how this works ver a long time. I think as long as I don't don't change the master on the GitHub site I don't have to keep checking it out. My local copy will remain the master.
+I am not sure how this works over a long time. I think as long as I don't change the master on the GitHub site I don't have to keep checking it out. My local copy will remain the master.
 
