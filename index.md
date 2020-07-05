@@ -21,3 +21,35 @@ The next page of the setup shows all the commands needed for setting up the repo
 ![Commands 1](../img/2020-07-05 14_09_29-reesehaywood_helloworld.png)
 ![Commands 2](../img/2020-07-05 14_09_53-reesehaywood_helloworld2.png)
 
+## Continue working on a project
+
+In the local directory:
+
+```
+git chaeckout master
+```
+
+Then:
+
+```
+git pull
+```
+
+## General workflow
+
+Iterate over the following steps to keep the repo updated remotely.
+
+```
+git add --all
+```
+
+```
+git commit -m 'Message for commit'
+```
+
+```
+git push -u origin master
+```
+
+I am not sure how this works ver a long time. I think as long as I don't don't change the master on the GitHub site I don't have to keep checking it out. My local copy will remain the master.
+
