@@ -6,3 +6,4 @@ The easiest way to get the commands needed for initializing and using a git repo
 git clone 'https://github.com/username/project'
 ```
 
+Not sure how to make this the page the shows up.
