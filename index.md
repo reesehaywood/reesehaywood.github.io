@@ -10,8 +10,8 @@ git clone 'https://github.com/username/project'
 
 Press the green new button.
 
-![Create New Repo](img/2020-07-05 14_07_26-GitHud.png)
+![Create New Repo](../img/2020-07-05 14_07_26-GitHub.png)
 
 Do not select any options. This will create an empty repo.
 
-![Empty Project](img/2020-07-05 14_08_35-Create a New Repository.png)
+![Empty Project](../img/2020-07-05 14_08_35-Create a New Repository.png)
